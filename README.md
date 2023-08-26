@@ -11,3 +11,4 @@ Dia 5
 
 Dúvidas:
     - porque é "."gitignore? Qual a diferença dos aquivos que levam . e dos arquivos que não levam pontos
+   - 
